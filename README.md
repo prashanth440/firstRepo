@@ -9,3 +9,6 @@ today i learned how lighting works in unreal engine for designing fictional worl
 
 <img width="1920" height="1080" alt="{CBF23D47-2C78-454F-934E-16BF675EC2FF}" src="https://github.com/user-attachments/assets/ce959c54-d68e-4833-afe6-281bfa82fdf7" />
 hello today i learned lanscapes in unreal engine in which we can create mind blowing landscapes visuals 😍 😁
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a229745-43cb-4cb8-b2f0-c97d28f7a578" />
+today i leaned about the landscapes how the material works and how to change the size of the texture in real time by creating an material instance of that particular landscape material
